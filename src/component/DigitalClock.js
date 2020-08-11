@@ -101,4 +101,4 @@ class DigitalClock extends Component{
 
 export default DigitalClock;
 
-//dont make this harder
+//dont make this harder than
